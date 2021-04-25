@@ -1,4 +1,15 @@
 # nuxt-tsx
+NuxtJS 에서 TSX (JSX for TypeScript) 사용하기
+
+
+## Dependency
+
+* Nuxt.js
+* Typescript 
+* Jsx
+* Sass
+* Vuex-module-decorators
+* Nuxt-property-decorator
 
 ## Build Setup
 
